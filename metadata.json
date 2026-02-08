@@ -1,0 +1,5 @@
+{
+  "name": "ISTQB Study Co-Pilot",
+  "description": "Generate ISTQB-style multiple-choice questions from provided text or PDF documents. This tool helps testing professionals create practice exams by analyzing content and formulating relevant questions with options and correct answers.",
+  "requestFramePermissions": []
+}
